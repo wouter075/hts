@@ -2,3 +2,4 @@ settings.py
 
 # Project exclude paths
 /venv/
+/.idea/
